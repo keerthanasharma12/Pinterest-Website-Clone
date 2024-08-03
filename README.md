@@ -8,3 +8,5 @@ Unique user profile pages and a personalized onboarding process were designed to
 These can be further developed for customizations resulting in a highly personalized, efficient, and visually distinct application, successfully transforming the Pinterest clone into a unique platform that stands out in functionality and aesthetics.
 
 The folder "pts" contains all the required codes and images that were used in developing this web page.
+The folder "Screnshots" contains the screenshots of how the web page looks when it is accessed locally from the
+url: http://127.0.0.1:5501/index.html
