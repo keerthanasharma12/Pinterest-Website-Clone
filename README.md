@@ -7,4 +7,4 @@ Unique user profile pages and a personalized onboarding process were designed to
 
 These can be further developed for customizations resulting in a highly personalized, efficient, and visually distinct application, successfully transforming the Pinterest clone into a unique platform that stands out in functionality and aesthetics.
 
-The folder #pts contains all the required codes and images that were used in developing this web page.
+The folder "pts" contains all the required codes and images that were used in developing this web page.
